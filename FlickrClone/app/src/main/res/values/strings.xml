@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flickr-Clone</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">6bf318919bbbc455f3573d18798a58e3</string>
+    <string name="dialog_msg_enter_tag">Enter tag to search</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+</resources>
